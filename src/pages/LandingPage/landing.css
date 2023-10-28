@@ -1,0 +1,23 @@
+.circle{
+    width: 65px;
+    height: 65px;
+    border-radius: 100%;
+    background-color: #FDCF51;
+    margin: 50px;
+}
+
+.circle.red{
+background-color: #FD5151;
+}
+
+.circle.blue{
+background-color:#51A0FD ;
+}
+
+.app{
+    visibility: hidden;
+}
+
+.lineChildren{
+    transform: translate(0,500px);
+}
